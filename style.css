@@ -1,8 +1,8 @@
 .cHdhQc {
     display: block;
     position: absolute;
-    top: 0px;
-    left: 0px;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
     opacity: 1;
@@ -64,7 +64,7 @@ a {
     text-decoration: underline;
 }
 .iFpTba {
-    padding: 2rem 2rem 0px;
+    padding: 2rem 2rem 0;
     color: rgb(255, 255, 255);
     display: flex
 ;
@@ -103,8 +103,8 @@ a {
 
 .eKXaBQ {
     width: 100%;
-    border-top: 1px solid rgb(201, 201, 201);
-    padding: 0.625rem 0px 1rem;
+    border-top: 0.0625rem solid rgb(201, 201, 201);
+    padding: 0.625rem 0 1rem;
     font-family: inherit;
 }
 .iFpTba {
