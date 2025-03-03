@@ -150,8 +150,10 @@ a {
 }
 .iveWEE:hover,
 .iveWEE:focus-within {
-    outline: white solid 0.25rem;
-    outline-offset: -0.5rem;
+    /* outline: white solid 0.25rem; */
+    /* outline-offset: -0.5rem;
+     */
+     box-shadow: 0 0 0 0.125rem  #238CEC inset, 0 0 0 0.25rem #F6F6F6 inset;
 }
 
 .iveWEE:hover a,
