@@ -165,9 +165,12 @@ a::after {
     /* z-index: auto; */
 }
 
-.eKXaBQ{
-    z-index: 60;
-    /* position: relative; */
+.eKXaBQ p{
+    /* height: 1rem; */
+    /* border: 1px solid red; */
+    /* z-index: 60; */
+    margin: 0;
+    position: relative;
 }
 
 /* .iveWEE:hover, */
